@@ -1,0 +1,11 @@
+clingo version 5.5.0
+Reading from guitar.lp
+Solving...
+Answer: 1
+cmajor(1) cmajor(3) cmajor(5) cmajor(6) cmajor(8) cmajor(10) cmajor(12) bar(1) bar(2) bar(3) bar(4) chosenNote(8,15,4) chosenNote(1,16,4) barTime(1,1) barTime(2,1) barTime(3,1) barTime(4,1) barTime(5,2) barTime(6,2) barTime(7,2) barTime(8,2) barTime(9,3) barTime(10,3) barTime(11,3) barTime(12,3) barTime(13,4) barTime(14,4) barTime(15,4) barTime(16,4) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) barMax(4) timeMax(16) cmixolydian(1) cmixolydian(3) cmixolydian(5) cmixolydian(6) cmixolydian(8) cmixolydian(10) cmixolydian(11) chosenNote(10,1,1) chosenNote(10,2,1) chosenNote(8,3,1) chosenNote(5,4,1) chosenNote(5,5,2) chosenNote(12,6,2) chosenNote(6,7,2) chosenNote(5,8,2) chosenNote(5,9,3) chosenNote(5,10,3) chosenNote(12,11,3) chosenNote(5,12,3) chosenNote(6,13,4) chosenNote(6,14,4)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.003s

@@ -1,0 +1,11 @@
+clingo version 5.5.0
+Reading from bass.lp
+Solving...
+Answer: 1
+c7Chord(1) c7Chord(5) c7Chord(8) bar(1) bar(2) bar(3) bar(4) chosenNote(1,1,1) chosenNote(1,5,2) chosenNote(1,9,3) chosenNote(1,13,4) chosenNote(1,16,4) barTime(1,1) barTime(2,1) barTime(3,1) barTime(4,1) barTime(5,2) barTime(6,2) barTime(7,2) barTime(8,2) barTime(9,3) barTime(10,3) barTime(11,3) barTime(12,3) barTime(13,4) barTime(14,4) barTime(15,4) barTime(16,4) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) barMax(4) timeMax(16) chosenNote(5,2,1) chosenNote(5,6,2) chosenNote(5,10,3) chosenNote(8,3,1) chosenNote(8,4,1) chosenNote(8,7,2) chosenNote(8,8,2) chosenNote(8,11,3) chosenNote(8,12,3) chosenNote(8,14,4) chosenNote(8,15,4)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.003s
